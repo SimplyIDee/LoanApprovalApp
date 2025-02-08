@@ -1,4 +1,4 @@
-# Loan Approval App
+# Loan Approval Prediction App
 This project is a machine learning application that predicts whether a loan will be approved based on user input parameters. The application is built using Streamlit for the web interface and a pre-trained machine learning model for predictions.
 
 ## Table of Contents
