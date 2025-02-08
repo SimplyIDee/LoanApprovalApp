@@ -1,6 +1,6 @@
-pandas
-seaborn
-matplotlib
-plotly
-numpy
-sclkit-learn 
+pandas==2.2.3
+seaborn==0.13.2
+matplotlib==3.9.2
+plotly==5.24.1
+numpy==2.0.0
+sclkit-learn==1.5.2 
